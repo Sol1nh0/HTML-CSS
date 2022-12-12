@@ -1,0 +1,30 @@
+div {
+    color: brown;
+}
+h1 {
+
+    text-align: center;
+    text-decoration: underline;
+    font-size: 48px;
+    /*color: blue;*/
+    color: rgb(100, 80, 122);
+    /*/color: #234235;*/
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    text-align: justify;
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    line-height: 48px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 24px;
+    color: white;
+    background-color: blueviolet;
+    padding: 10px 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
